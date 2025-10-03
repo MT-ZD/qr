@@ -107,7 +107,7 @@
 		</div>
 	</div>
 
-	<div class="flex h-full w-full">
+	<div class="mx-auto flex h-full w-full max-w-7xl">
 		<div class="grid h-full w-1/2 place-items-center">
 			<div>
 				<div bind:this={container} class="bg-white p-4"></div>
