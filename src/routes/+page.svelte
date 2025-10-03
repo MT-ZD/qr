@@ -124,7 +124,7 @@
 			</div>
 		</div>
 
-		<div class="h-full w-1/2 p-4">
+		<div class="grid h-full w-1/2 place-items-center p-4">
 			<Card class="p-4">
 				<div class="flex flex-col gap-4">
 					<div class="mb-4 flex items-center">
